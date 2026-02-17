@@ -1,10 +1,17 @@
-public class OOPSBannerApps {
+public class OOPSBannerAPPS {
 
     public static void main(String[] args) {
 
-        System.out.println("Welcome to OOPSBanner application");
+        // Each letter is 9 characters wide and 7 lines tall
+        // O O P S
+
+        System.out.println("  *****  " + "  *****  " + " ******* " + "  *****  ");
+        System.out.println(" **   ** " + " **   ** " + " **    **" + " **   ** ");
+        System.out.println("**     **" + "**     **" + " **    **" + "**        ");
+        System.out.println("**     **" + "**     **" + " ******* " + "  *****  ");
+        System.out.println("**     **" + "**     **" + " **       " + "       **");
+        System.out.println(" **   ** " + " **   ** " + " **       " + " **   ** ");
+        System.out.println("  *****  " + "  *****  " + " **       " + "  *****  ");
 
     }
-
 }
-
